@@ -25,5 +25,3 @@ For more information about using local AI agents as NPCs in Unity, watch the vid
 
 ### Purpose
 These scripts provide a skeleton implementation, making it easier to integrate **TinyTroupe's** social agent capabilities into Unity NPCs. Developers can build upon this framework to add unique and dynamic social interactions to their games. The design prioritizes simplicity, allowing for easy customization and adaptation to different project needs.
-
-Start creating socially intelligent NPCs with **TinyUnityScripts** today!
